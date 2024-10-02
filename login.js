@@ -1,2 +1,3 @@
-console.log("Register");
-console.log("Create Register");
+console.log("Login");
+console.log("Create message ntvien");
+
